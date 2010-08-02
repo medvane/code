@@ -1,0 +1,14 @@
+--- 
+dependencies: 
+  sinatra: 
+    group: 
+    - :default
+    version: = 1.0
+specs: 
+- rack: 
+    version: 1.2.1
+- sinatra: 
+    version: "1.0"
+hash: 3f650d1fbb2c4e636ef5e80ea513c68934f7ae23
+sources: []
+
